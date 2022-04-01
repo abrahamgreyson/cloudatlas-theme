@@ -19,7 +19,7 @@ module.exports = (async () => {
     },
 
     lang: 'en-US',
-    title: 'Vue.js',
+    title: 'CloudAtlas',
     description: 'Vue.js - The Progressive JavaScript Framework',
 
     themeConfig: {
